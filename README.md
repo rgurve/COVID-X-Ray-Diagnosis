@@ -1,1 +1,1 @@
-# COVID-X-Ray-Diagnosis
+# COVID19 X-Ray Diagnosis
