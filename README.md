@@ -9,7 +9,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 Description
 1. Detected Pneumonia from Chest X-Ray images using Custom Deep Convololutional Neural Network and by retraining pretrained model “Densenet169” with 6432 images of X-ray (800+ MB).
 2. For retraining removed output layers, freezed first few layers and fine-tuned model for three new label classes (Covid-19,Pneumonia and Normal).
-3. With Custom Deep Convololutional Neural Network attained testing accuracy 96.7 and loss .
+3. With Custom Deep Convololutional Neural Network attained testing accuracy 97.95 and loss 0.0579 .
 
 
 ## Table of Contents
