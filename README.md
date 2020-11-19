@@ -23,6 +23,6 @@ Description
 8. [Explanations](#explanations)
 9. [References](#references)
 
-1. Objective
+ Objective
  -Train a convolutional neural network to detect and classify diagnoses of patients.
  -Couple structured and unstructured datasets together into a multi classifier.
