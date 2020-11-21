@@ -57,9 +57,13 @@ Test images : 1288 images belonging to 3 classes.
 
 
 Model Parameters
+
 Machine Learning Library: Keras and Tensorflow
+
 Base Model              : Densenet169 && Custom Deep Convolutional Neural Network
+
 Optimizers              : Adam
+
 Loss Function           : categorical_crossentropy
 
 For Custom Deep Convolutional Neural Network :
