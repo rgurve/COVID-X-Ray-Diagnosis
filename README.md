@@ -62,16 +62,24 @@ Base Model              : Densenet169 && Custom Deep Convolutional Neural Networ
 Optimizers              : Adam
 Loss Function           : categorical_crossentropy
 
-For Custom Deep Convolutional Neural Network : 
+For Custom Deep Convolutional Neural Network :
+
 Training Parameters
+
 Batch Size              : 64
+
 Number of Epochs        : 30
+
 Training Time           : 36 Hours
 
 Output (Prediction/ Recognition / Classification Metrics)
+
 Testing
+
 Accuracy (F-1) Score    : 97.95%
+
 Loss                    : 0.0579
+
 Precision               : 88.37%
 Recall (Pneumonia)      : 95.48% (For positive class)
 
