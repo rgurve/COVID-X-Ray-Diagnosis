@@ -64,7 +64,7 @@ Base Model              : Densenet169 && Custom Deep Convolutional Neural Networ
 
 Optimizers              : Adam
 
-Loss Function           : categorical_crossentropy
+Loss Function           : binary_crossentropy
 
 For Custom Deep Convolutional Neural Network :
 
