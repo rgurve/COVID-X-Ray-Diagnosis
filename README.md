@@ -10,6 +10,8 @@ Techniques         : Deep Convolutional Neural Network, ImageNet, Inception
 
 Application        : Image Recognition, Image Classification, Medical Imaging
 
+
+
 Introduction:
 
 Deep learning, also known as hierarchical learning or deep structured learning, is a type of machine learning that uses a layered algorithmic architecture to analyze data. Unlike other types of machine learning, deep learning has an added advantage of being able to make decisions with significantly less human intervention. While basic machine learning requires a programmer to identify whether a conclusion is correct or not, deep learning can gauge the accuracy of its answers on its own due to the nature of its multi-layered structure. The emergence of modern frameworks like PyTorch, has also made preprocessing of data more convenient. Many of the filtering and normalization tasks that would involve a lot of manual tasks while using other machine learning techniques, are taken up automatically.
