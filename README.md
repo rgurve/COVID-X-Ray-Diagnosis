@@ -48,6 +48,9 @@ Description
  
 2. Dataset has been taken from various sources, but mostly from github
 
-Total images : 6432
+Total images : 6432 images belonging to 3 classes.
 
-Training images: 
+Training images:  5144 images belonging to 3 classes.
+
+Test images : 1288 images belonging to 3 classes.
+
