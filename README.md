@@ -70,7 +70,8 @@ For Custom Deep Convolutional Neural Network :
 
 Training Parameters
 
-Batch Size              : 64
+Batch Size              : 256 on training set, 50 on test set
+
 
 Number of Epochs        : 30
 
@@ -84,6 +85,11 @@ Accuracy (F-1) Score    : 97.95%
 
 Loss                    : 0.0579
 
-Precision               : 88.37%
+Precision               : 88.37%                    
+
 Recall (Pneumonia)      : 95.48% (For positive class)
+
+[[  6   0   0]
+ [  0  85   9]
+ [110 232 846]]
 
