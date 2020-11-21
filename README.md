@@ -93,7 +93,11 @@ Recall (Pneumonia)      : 95.48% (For positive class)
  [  0  85   9]
  [110 232 846]]
  
- Sample Output
+ Sample Output:
  
- Prediction.png
+ https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Prediction.png:
+ 
+ 
+ 
+ 
 
