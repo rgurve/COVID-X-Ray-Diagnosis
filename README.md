@@ -39,7 +39,7 @@ __Description__
 8. [Explanations](#explanations)
 9. [References](#references)
 
-K1.__Objective__
+1.__Objective__
  
  -Train a convolutional neural network to detect and classify diagnoses of patients.
  
