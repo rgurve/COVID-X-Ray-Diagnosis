@@ -46,7 +46,7 @@ __Description__
  -Couple structured and unstructured datasets together into a multi classifier.
  
  
-2. Dataset has been taken from various sources, but mostly from github
+2.Dataset has been taken from various sources, but mostly from github
 
 Total images : 6432 images belonging to 3 classes.
 
