@@ -1,7 +1,7 @@
 # COVID19 X-Ray Diagnosis
 
 #COVID19 Detection from Chest X-Ray Images using Transfer Learning
--------------------------------------------------------
+
 Domain             :| Computer Vision, Machine Learning
 --------------------|----------------------------------
 Sub-Domain         :| Deep Learning, Image Recognition
