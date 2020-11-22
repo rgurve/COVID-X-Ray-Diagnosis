@@ -49,23 +49,21 @@ __Description__
 2.__Dataset__ has been taken from various sources, but mostly from github
 ----------
 
-Total images : 6432 images belonging to 3 classes.
+Total images :| 6432 images belonging to 3 classes.
+--------------|--------------------------------
+Training images: | 5144 images belonging to 3 classes.
 
-Training images:  5144 images belonging to 3 classes.
-
-Test images : 1288 images belonging to 3 classes.
+Test images :| 1288 images belonging to 3 classes.
 
 
 
 Model Parameters
 
-Machine Learning Library: Keras and Tensorflow
-
-Base Model              : Densenet169 && Custom Deep Convolutional Neural Network
-
-Optimizers              : Adam
-
-Loss Function           : binary_crossentropy
+Machine Learning Library:| Keras and Tensorflow
+-------------------------|---------------------
+Base Model              :| Densenet169 && Custom Deep Convolutional Neural Network
+Optimizers              :| Adam
+Loss Function           :| binary_crossentropy
 
 For Custom Deep Convolutional Neural Network :
 
