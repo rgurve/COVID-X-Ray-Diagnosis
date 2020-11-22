@@ -79,7 +79,7 @@ Testing
 
 Accuracy (F-1) Score    :| 97.95%
 -------------------------|---------
-Loss                    : 0.0579
+Loss                    :| 0.0579
 
 Precision               : 88.37%                    
 
