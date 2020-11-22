@@ -41,6 +41,7 @@ __Description__
 9. [References](#references)
 
 1.__Objective__
+----------
  
  -Train a convolutional neural network to detect and classify diagnoses of patients.
  
@@ -48,6 +49,7 @@ __Description__
  
  
 2.__Dataset__ has been taken from various sources, but mostly from github
+----------
 
 Total images : 6432 images belonging to 3 classes.
 
