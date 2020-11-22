@@ -9,7 +9,7 @@ Sub-Domain         :| Deep Learning, Image Recognition
 Techniques         :|Deep Convolutional Neural Network, ImageNet, Inception
 
 Application        :|Image Recognition, Image Classification, Medical Imaging
---------------------------------------------------------------------------
+
 
 
 __Introduction:__
