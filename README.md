@@ -52,7 +52,6 @@ __Description__
 Total images :| 6432 images belonging to 3 classes.
 --------------|--------------------------------
 Training images: | 5144 images belonging to 3 classes.
-
 Test images :| 1288 images belonging to 3 classes.
 
 
@@ -69,19 +68,17 @@ For Custom Deep Convolutional Neural Network :
 
 Training Parameters
 
-Batch Size              : 256 on training set, 50 on test set
-
-
-Number of Epochs        : 30
-
-Training Time           : 36 Hours
+Batch Size              : |256 on training set, 50 on test set
+--------------------------|-------------------------------
+Number of Epochs        :| 30
+Training Time           :| 36 Hours
 
 Output (Prediction/ Recognition / Classification Metrics)
 
 Testing
 
-Accuracy (F-1) Score    : 97.95%
-
+Accuracy (F-1) Score    :| 97.95%
+-------------------------|---------
 Loss                    : 0.0579
 
 Precision               : 88.37%                    
