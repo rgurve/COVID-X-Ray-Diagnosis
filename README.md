@@ -82,9 +82,11 @@ Accuracy (F-1) Score    :| 97.95%
 Loss                    :| 0.0579
 
 ACCURACY
+__________
 ![alt tag](https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Accuracy.png)
 
 LOSS
+__________
 ![alt tag](https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Accuracy.png)
 
 Precision               : 88.37%                    
