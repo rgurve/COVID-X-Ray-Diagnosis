@@ -96,4 +96,4 @@ Recall (Pneumonia)      : 95.48% (For positive class)
  Tech Stack
  ---------
  
- ![alt tag](https://github.com/gregwchase/nih-chest-xray/blob/master/data/tech_stack.https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Prediction.png?raw=truejpg?raw=true)
+ ![alt tag](https://github.com/gregwchase/nih-chest-xray/blob/master/data/tech_stack.)
