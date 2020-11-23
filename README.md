@@ -87,7 +87,7 @@ __________
 
 LOSS
 __________
-![alt tag](https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Accuracy.png)
+![alt tag](https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Loss.png)
 
 Precision               : 88.37%                    
 
