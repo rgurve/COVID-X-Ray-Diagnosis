@@ -81,6 +81,12 @@ Accuracy (F-1) Score    :| 97.95%
 -------------------------|---------
 Loss                    :| 0.0579
 
+ACCURACY
+![alt tag](https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Accuracy.png)
+
+LOSS
+![alt tag](https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Accuracy.png)
+
 Precision               : 88.37%                    
 
 Recall (Pneumonia)      : 95.48% (For positive class)
