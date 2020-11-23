@@ -93,4 +93,4 @@ Recall (Pneumonia)      : 95.48% (For positive class)
  
  https://github.com/rgurve/COVID-X-Ray-Diagnosis/blob/main/Images/Prediction.png:
  
- 
+ ![alt tag](https://github.com/gregwchase/nih-chest-xray/blob/master/data/tech_stack.jpg?raw=true)
