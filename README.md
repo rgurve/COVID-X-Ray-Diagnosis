@@ -89,6 +89,13 @@ Structured Data Model	|model.py	|Structured
 
 
 ## Preprocessing
+
+## Model (Convolutional Neural Network)
+The CNN was trained using Keras, with the TensorFlow backend.
+
+The model is similar to the Densenat169 architectures
+
+
 Model Parameters
 
 Machine Learning Library:| Keras and Tensorflow
