@@ -72,7 +72,7 @@ Test images :| 1288 images belonging to 3 classes.
 ## Explatory Data Analysis
 --------
 
-Data was analysed by checking the images and augmentation was done
+Data was analysed by reading the images of normal,pneumonia and covid X-rays
 
 ## Pipeline
 
@@ -89,6 +89,9 @@ Structured Data Model	|model.py	|Structured
 
 
 ## Preprocessing
+
+Image data generator was used to augment images by using components like shift,height,shear and zoom to increase accuracy.
+ 
 
 ## Model (Convolutional Neural Network)
 The CNN was trained using Keras, with the TensorFlow backend.
