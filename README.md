@@ -106,4 +106,4 @@ Recall (Pneumonia)      : 95.48% (For positive class)
  
  ![alt tag](https://github.com/gregwchase/nih-chest-xray/raw/master/data/tech_stack.jpg)
  
- ![alt tag](http://chris35wills.github.io/courses/pydata_stack.png)
+ 
