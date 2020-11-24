@@ -91,7 +91,7 @@ Structured Data Model	|model.py	|Structured
 ## Preprocessing
 
 Image data generator was used to augment images by using components like shift,height,shear and zoom to increase accuracy.
-The generator also converts  single channel X-ray images (gray-scale) to a three-channel format by repeating the values in the image across all channels. We will want this because the pre-trained model that we'll use requires three
+The generator also converts  single channel X-ray images (gray-scale) to a three-channel format by repeating the values in the image across all channels. We will want this because the pre-trained model that we'll use requires three-channel inputs.
  
 
 ## Model (Convolutional Neural Network)
