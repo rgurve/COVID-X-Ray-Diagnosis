@@ -79,7 +79,7 @@ Data was analysed by checking the images and augmentation was done
 Two pipelines were created for each dataset. Each script is labeled as either "Structured" or "CNN", which indicates which data pipeline the script is part of.
 
 Description|	Script	|Model
---------------------------
+-----------|--------|------
 EDA	|eda.py	|Structured
 Resize Images|	resize_images.py	|CNN
 Reconcile Labels	|reconcile_labels.py|CNN
