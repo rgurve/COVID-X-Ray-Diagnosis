@@ -74,7 +74,21 @@ Test images :| 1288 images belonging to 3 classes.
 
 Data was analysed by checking the images and augmentation was done
 
+## Pipeline
 
+Two pipelines were created for each dataset. Each script is labeled as either "Structured" or "CNN", which indicates which data pipeline the script is part of.
+
+Description|	Script	|Model
+___________________________
+EDA	|eda.py	|Structured
+Resize Images|	resize_images.py	|CNN
+Reconcile Labels	|reconcile_labels.py|CNN
+Convert Images to Arrays	|image_to_array.py	|CNN
+CNN Model	|cnn.py	|CNN
+Structured Data Model	|model.py	|Structured
+
+
+## Preprocessing
 Model Parameters
 
 Machine Learning Library:| Keras and Tensorflow
