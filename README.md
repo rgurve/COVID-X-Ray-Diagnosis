@@ -69,6 +69,10 @@ Total images :| 6432 images belonging to 3 classes.
 Training images: | 5144 images belonging to 3 classes.
 Test images :| 1288 images belonging to 3 classes.
 
+## Explatory Data Analysis
+--------
+
+Data was analysed by checking the images and augmentation was done
 
 
 Model Parameters
