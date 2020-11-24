@@ -97,7 +97,7 @@ The generator also converts  single channel X-ray images (gray-scale) to a three
 ## Model (Convolutional Neural Network)
 The CNN was trained using Keras, with the TensorFlow backend.
 
-The model is similar to the Densenat169 architectures
+The model is similar to the Densenet169 architecture.
 
 
 Model Parameters
