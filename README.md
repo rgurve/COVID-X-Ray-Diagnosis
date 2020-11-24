@@ -48,6 +48,16 @@ __Description__
  
 2.__Dataset__ has been taken from various sources, but mostly from github
 ----------
+https://data.mendeley.com/datasets/rscbjbr9sj/2
+https://github.com/ieee8023/covid-chestxray-dataset
+https://github.com/agchung/Figure1-COVID-chestxray-dataset
+
+
+
+
+
+
+
 
 Total images :| 6432 images belonging to 3 classes.
 --------------|--------------------------------
