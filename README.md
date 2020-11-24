@@ -46,8 +46,11 @@ __Description__
  -Couple structured and unstructured datasets together into a multi classifier.
  
  
-## __Dataset__ has been taken from various sources, but mostly from github
-----------
+## __Dataset__ 
+-----------
+
+Dataset has been taken from various sources, but mostly from github
+
 https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 https://github.com/ieee8023/covid-chestxray-dataset
